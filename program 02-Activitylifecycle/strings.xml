@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifeactivity</string>
+    <string name="b1">navigate to activity2</string>
+    <string name="b2">navigate to activity1</string>
+</resources>
