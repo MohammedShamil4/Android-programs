@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registeration</string>
+    <string name="a1">enter first name</string>
+    <string name="a2">enter last name</string>
+    <string name="a3">enter password</string>
+    <string name="a4">Gender :</string>
+    <string name="a5">Male</string>
+    <string name="a6">Female</string>
+    <string name="a7">Register</string>
+    <string name="a8">Fetch data</string>
+
+</resources>
