@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="s1">STRANGER</string>
+    <string name="s2">STRANGER</string>
+    <string name="s3">AN UNKNOWN USER</string>
+    <string name="s4">Add story</string>
+    <string name="s5">View</string>
+    <string name="s6">Activity log</string>
+    <string name="s7">More</string>
+    <string name="s8">Studying in KMCT college</string>
+</resources>
